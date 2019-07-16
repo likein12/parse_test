@@ -1,0 +1,5 @@
+  0.265641 seconds (214.13 k allocations: 12.040 MiB)
+  0.264419 seconds (214.13 k allocations: 12.040 MiB)
+  0.264696 seconds (214.13 k allocations: 12.040 MiB)
+  0.262351 seconds (214.13 k allocations: 12.040 MiB)
+  0.259811 seconds (214.13 k allocations: 12.040 MiB)

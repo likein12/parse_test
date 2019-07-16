@@ -4,7 +4,7 @@
 入力データは./test/に、各種計算結果とグラフは./output/に、ソースコードは./src/においてあります。parse_test.sh→analysis.pyでグラフをまとめました。
 
 
-## 〇testファイルの見方
+## testファイルの見方
 
 testh00.txt ← horizontal（横型入力）のmode:0（入力が0しかない）の1番目(0-indexed)のtestデータという意味。
 
@@ -32,7 +32,7 @@ testh00.txt ← horizontal（横型入力）のmode:0（入力が0しかない�
 
 注意：縦型入力の場合、最初の一行はデータの個数を表す数字になっている。
 
-## 〇ソースコードの対応表
+## ソースコードの対応表
 
 parsersはParsers.parseを用いたコード。
 

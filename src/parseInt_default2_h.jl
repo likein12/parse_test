@@ -14,3 +14,6 @@ function readline_org()
 end
 
 @time a = map(parseInt_default2,split(readline_org()))
+
+#=from:(@ sgryjp)=#
+#この関数の場合、改行コードを取り除く必要があるので、readline_org()関数を使用
